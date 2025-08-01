@@ -1,5 +1,5 @@
 # Exploratory Data Analysis and Data Cleaning using SQL
-This academic project focuses on cleaning the data from ('layoffs.csv') for further exploratory Data Analysis
+This academic project focuses on cleaning the data from [('layoffs.csv')](https://github.com/Rishi0581/SQL_Project/blob/499421dcb22e268d792a3ace669c6fec2ee8b7c3/layoffs.csv) for further exploratory Data Analysis
 ## Project Highlights
 - Data Cleaning using MySQL
 - Data Exploration using MySQL
