@@ -3,4 +3,5 @@ This academic project focuses on cleaning the data from layoffs_world for furthe
 ## Project Highlights
 - Data Cleaning using MySQL
 - Data Exploration using MySQL
+### Cleaned Data
 ![Data Cleaned](https://github.com/Rishi0581/SQL_Project/blob/e6742d4d7474299369a0473b2d930fa2f6543219/Data%20Cleaning.PNG)
